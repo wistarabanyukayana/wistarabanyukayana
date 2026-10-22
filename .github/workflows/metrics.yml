@@ -8,7 +8,7 @@ jobs:
   languages:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@master  # @latest (v3.34) cannot clone private repos
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}

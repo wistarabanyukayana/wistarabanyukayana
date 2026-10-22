@@ -13,6 +13,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           filename: metrics.languages.svg
+          debug: yes
           base: ""
           config_timezone: Asia/Jakarta
           commits_authoring: wistarabanyukayana, Wistara Banyu Kayana, wisthara.banyu.kayana@gmail.com, wistarabanyukayana@users.noreply.github.com

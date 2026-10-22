@@ -15,6 +15,7 @@ jobs:
           filename: metrics.languages.svg
           base: ""
           config_timezone: Asia/Jakarta
+          commits_authoring: wistarabanyukayana, Wistara Banyu Kayana, wisthara.banyu.kayana@gmail.com, wistarabanyukayana@users.noreply.github.com
           repositories_affiliations: owner, collaborator, organization_member
           plugin_languages: yes
           plugin_languages_indepth: yes

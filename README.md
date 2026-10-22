@@ -41,6 +41,8 @@ I've also built client sites for a travel agency, an umroh agency, an F&B point-
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
+<img src="languages.svg" alt="Languages I write, weighted by my commits across all repos" width="480">
+
 ### 📫 Find me
 
 [Portfolio](https://wistarabanyukayana.github.io) · [LinkedIn](https://www.linkedin.com/in/wistara-banyu-kayana) · [wisthara.banyu.kayana@gmail.com](mailto:wisthara.banyu.kayana@gmail.com)

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="216" viewBox="0 0 480 216" role="img" aria-label="Languages I write">
+<style>
+.t{font:600 13px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#1f2328}
+.m{font-weight:400;fill:#59636e} .h{font-size:15px} .bg{fill:#ffffff;stroke:#d1d9e0}
+@media (prefers-color-scheme: dark){.t{fill:#f0f6fc} .m{fill:#9198a1} .bg{fill:#0d1117;stroke:#3d444d}}
+</style>
+<rect class="bg" x="0.5" y="0.5" width="479" height="215" rx="6"/>
+<text x="24" y="34" class="t h">Languages I write <tspan class="m">· by my commits across all repos</tspan></text>
+<clipPath id="c"><rect x="24" y="52" width="432" height="10" rx="5"/></clipPath>
+<g clip-path="url(#c)"><rect x="24.0" y="52" width="206.0" height="10" fill="#3178c6"/><rect x="230.0" y="52" width="69.7" height="10" fill="#f1e05a"/><rect x="299.7" y="52" width="54.3" height="10" fill="#3572A5"/><rect x="354.0" y="52" width="35.0" height="10" fill="#89e051"/><rect x="389.0" y="52" width="20.6" height="10" fill="#dea584"/><rect x="409.6" y="52" width="19.8" height="10" fill="#7355dd"/><rect x="429.4" y="52" width="11.6" height="10" fill="#00ADD8"/><rect x="441.1" y="52" width="6.3" height="10" fill="#ff3e00"/><rect x="447.3" y="52" width="8.7" height="10" fill="#8b949e"/></g>
+<circle cx="29" cy="88" r="5" fill="#3178c6"/><text x="40" y="92" class="t">TypeScript <tspan class="m">47.7%</tspan></text><circle cx="245" cy="88" r="5" fill="#f1e05a"/><text x="256" y="92" class="t">JavaScript <tspan class="m">16.1%</tspan></text><circle cx="29" cy="114" r="5" fill="#3572A5"/><text x="40" y="118" class="t">Python <tspan class="m">12.6%</tspan></text><circle cx="245" cy="114" r="5" fill="#89e051"/><text x="256" y="118" class="t">Shell <tspan class="m">8.1%</tspan></text><circle cx="29" cy="140" r="5" fill="#dea584"/><text x="40" y="144" class="t">Rust <tspan class="m">4.8%</tspan></text><circle cx="245" cy="140" r="5" fill="#7355dd"/><text x="256" y="144" class="t">C# <tspan class="m">4.6%</tspan></text><circle cx="29" cy="166" r="5" fill="#00ADD8"/><text x="40" y="170" class="t">Go <tspan class="m">2.7%</tspan></text><circle cx="245" cy="166" r="5" fill="#ff3e00"/><text x="256" y="170" class="t">Svelte <tspan class="m">1.4%</tspan></text><circle cx="29" cy="192" r="5" fill="#8b949e"/><text x="40" y="196" class="t">Other <tspan class="m">2.0%</tspan></text>
+</svg>
